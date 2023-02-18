@@ -1,0 +1,17 @@
+ body {
+       background-color: #DFEFF0;
+      }
+      h1 {
+        color: #B8CECF;
+      }
+      h2 {
+        color: #B8CECF;
+      }
+      #rcorners1 {
+  border-radius: 130px;
+  background: #73AD21;
+  padding: 20px; 
+  width: 200px;
+  height: 200px;  
+  padding: 5px; 
+}
